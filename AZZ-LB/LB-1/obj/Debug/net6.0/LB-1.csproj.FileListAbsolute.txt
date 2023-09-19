@@ -1,0 +1,15 @@
+C:\Users\Вадим\Source\Repos\AZZ-LB\LB-1\bin\Debug\net6.0\LB-1.exe
+C:\Users\Вадим\Source\Repos\AZZ-LB\LB-1\bin\Debug\net6.0\LB-1.deps.json
+C:\Users\Вадим\Source\Repos\AZZ-LB\LB-1\bin\Debug\net6.0\LB-1.runtimeconfig.json
+C:\Users\Вадим\Source\Repos\AZZ-LB\LB-1\bin\Debug\net6.0\LB-1.dll
+C:\Users\Вадим\Source\Repos\AZZ-LB\LB-1\bin\Debug\net6.0\LB-1.pdb
+C:\Users\Вадим\Source\Repos\AZZ-LB\LB-1\obj\Debug\net6.0\LB-1.csproj.AssemblyReference.cache
+C:\Users\Вадим\Source\Repos\AZZ-LB\LB-1\obj\Debug\net6.0\LB-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Вадим\Source\Repos\AZZ-LB\LB-1\obj\Debug\net6.0\LB-1.AssemblyInfoInputs.cache
+C:\Users\Вадим\Source\Repos\AZZ-LB\LB-1\obj\Debug\net6.0\LB-1.AssemblyInfo.cs
+C:\Users\Вадим\Source\Repos\AZZ-LB\LB-1\obj\Debug\net6.0\LB-1.csproj.CoreCompileInputs.cache
+C:\Users\Вадим\Source\Repos\AZZ-LB\LB-1\obj\Debug\net6.0\LB-1.dll
+C:\Users\Вадим\Source\Repos\AZZ-LB\LB-1\obj\Debug\net6.0\refint\LB-1.dll
+C:\Users\Вадим\Source\Repos\AZZ-LB\LB-1\obj\Debug\net6.0\LB-1.pdb
+C:\Users\Вадим\Source\Repos\AZZ-LB\LB-1\obj\Debug\net6.0\LB-1.genruntimeconfig.cache
+C:\Users\Вадим\Source\Repos\AZZ-LB\LB-1\obj\Debug\net6.0\ref\LB-1.dll
